@@ -16,7 +16,7 @@ public class ReverseString {
         // Print the reversed string
         System.out.println("Reversed string: " + reversedString);
         
-        // Close the scanner
+   
         scanner.close();
     }
 }
