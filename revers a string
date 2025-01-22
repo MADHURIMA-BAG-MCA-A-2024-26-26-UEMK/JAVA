@@ -6,7 +6,7 @@ public class ReverseString {
         // Create a scanner object to read user input
         Scanner scanner = new Scanner(System.in);
         
-        // Prompt the user to enter a string
+        // Prompt the user to enter a string..,...,.
         System.out.println("Enter a string:");
         String inputString = scanner.nextLine();
         
