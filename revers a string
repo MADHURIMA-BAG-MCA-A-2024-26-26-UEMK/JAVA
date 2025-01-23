@@ -10,7 +10,7 @@ public class ReverseString {
         System.out.println("Enter a string:");
         String inputString = scanner.nextLine();
         
-        // Reverse the string using StringBuilder
+        // Reverse the string using StringBuilder.......
         String reversedString = new StringBuilder(inputString).reverse().toString();
         
         // Print the reversed string
