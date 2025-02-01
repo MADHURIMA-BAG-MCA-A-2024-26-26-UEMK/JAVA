@@ -19,3 +19,30 @@ Percentage>=40% : Grade E
 Percentage < 40% : Grade F
 12. Write a Java Program to check whether a number is divisible by 5 or not.
 
+
+# ASSIGNMENT  2
+
+1. Write a java program to create a simple array and access array element.
+2. Write a java program to create 2D array and access the array element.
+3. Write a Java program to find the sum of even numbers in an integer array.
+4. Write a Java program to calculate Sum of two 2-dimensional arrays.
+5. Write a Java program to find the sum of diagonal elements in a 2D array.
+6. Write a Java program to multiply two matrices.
+7. Implementation of default, no argument Constructor.
+8. Implementation of parameterized constructor.
+9. Implementation of returning the value from the caller method.
+10. Implementation of call by value and call by reference.
+
+
+# ASSIGNMENT 3
+
+1. Write a java program to implement BufferedReader class.
+2. Write a java program to take input from keyboard using Scanner class.
+3. Write a Java program to reverse a number.
+4. Write a Java program to check whether a number is palindrome or not.
+5. Write a Java program to check whether a number is prime or not.
+6. Write a Java program to convert a Binary Number to Decimal and Decimal to Binary.
+7. Write a Java program to check whether a given number is Armstrong Number or not.
+8. Write a Java program to calculate the sum of natural numbers up to a certain range
+9. Write java codes to implement the followings – Basic string handling concepts- Concept of mutable and immutable string, Methods of String class-charAt(), compareTo(), equals(), equalsIgnoreCase(), indexOf(), length() , substring().; toCharArray(), toLowerCase(), toString(), toUpperCase() , trim() , valueOf() methods
+10. Write java codes to implement the followings – Methods of Stringbuffer class: append(), capacity(), charAt(), delete(), deleteCharAt().; ensureCapacity(), getChars(), indexOf(), insert(), length(), setCharAt(), setLength(), substring(), toString().
