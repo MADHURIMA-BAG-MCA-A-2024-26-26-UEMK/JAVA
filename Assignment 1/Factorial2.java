@@ -1,4 +1,4 @@
-public class Factorial {
+public class Factorial2 {
     
     // Method to calculate the factorial
     public static long calculateFactorial(int num) {

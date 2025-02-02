@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MaximumOfThree {
+public class MaximumOfThreeNumber {
     public static void main(String[] args) {
         // Create a scanner object for input
         Scanner scanner = new Scanner(System.in);
