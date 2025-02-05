@@ -46,3 +46,21 @@ Percentage < 40% : Grade F
 8. Write a Java program to calculate the sum of natural numbers up to a certain range
 9. Write java codes to implement the followings – Basic string handling concepts- Concept of mutable and immutable string, Methods of String class-charAt(), compareTo(), equals(), equalsIgnoreCase(), indexOf(), length() , substring().; toCharArray(), toLowerCase(), toString(), toUpperCase() , trim() , valueOf() methods
 10. Write java codes to implement the followings – Methods of Stringbuffer class: append(), capacity(), charAt(), delete(), deleteCharAt().; ensureCapacity(), getChars(), indexOf(), insert(), length(), setCharAt(), setLength(), substring(), toString().
+
+# ASSIGNMENT 4
+
+1. Implementation of method overloading with respect to parameter number, parameter data type. 
+2. Write a java program to implement of constructor overloading. 
+3. Implementation of this keyword to invoke current class method. 
+4. Implementation of this keyword to invoke current class constructor. 
+5. Implementation of this keyword to pass as an argument in the method. 
+6. Implementation of this keyword to pass as argument in the constructor call. 
+7. Implement - this keyword can be used to return current class instance. 
+8. Prove that this keyword refers to the current class instance variable. 
+9. Implementation of this keyword as local variable suppressor. 
+10. Create a general class ThreeDObject and derive the classes Box, Cube, Cylinder and Cone from it. 
+    The class ThreeDObject has methods wholeSurfaceArea ( ) and volume ( ). Override these two 
+    methods in each of the derived classes to calculate the volume and whole surface area of each type 
+    of three-dimensional objects. The dimensions of the objects are to be taken from the users and 
+    passed through the respective constructors of each derived class. Write a main method to test these 
+    classes.    
