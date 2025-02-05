@@ -20,7 +20,7 @@ Percentage < 40% : Grade F
 12. Write a Java Program to check whether a number is divisible by 5 or not.
 
 
-# ASSIGNMENT  2
+# ASSIGNMENT 2
 
 1. Write a java program to create a simple array and access array element.
 2. Write a java program to create 2D array and access the array element.
