@@ -63,4 +63,21 @@ Percentage < 40% : Grade F
     methods in each of the derived classes to calculate the volume and whole surface area of each type 
     of three-dimensional objects. The dimensions of the objects are to be taken from the users and 
     passed through the respective constructors of each derived class. Write a main method to test these 
-    classes.    
+    classes.   
+
+ # ASSIGNMENT 5
+
+1. Write a java program to implement the static keyword in java.  
+2.	Write a java program to implement the static method in java.  
+3.	Write a java program to implement the single inheritance in java.  
+4.	Write a java program to implement the hierarchical inheritance in java.  
+5.	Write a java program to implement the multilevel inheritance in java.  
+6.	Multiple inheritance does not support in java – justify.  
+7.	Implementation of method overriding in java.  
+8.	Implementation of dynamic method dispatch in java.  
+9.	Write a java program to stop method overriding.  
+10. Create a “circle” class & a “point” class. The coordinates of the circle are given and used within the “circle” class as of     object the “point” class. Display the area of circle  
+11. Write a program to define a class Employee to accept emp_id, emp _name, basic_salary from the user and display the gross_salary.  
+12. Write a program to define a class Fraction having data members numerator and denominator. Initialize three objects using different constructors and display its fractional value.  
+13. Write a program to define a class Item containing code and price. Accept this data for five objects using array of objects. Display  code, price in tabular form and also, display total price of all items 
+ 
