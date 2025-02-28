@@ -3,7 +3,7 @@
 1. Write a Java Program to Print “HELLO JAVA”.
 2. Write a Java Program to add two numbers by declaring variables value.
 3. Write a Java Program to calculate factorial value of a declared variable.
-4. Write a Java Program to calculate factorial value of a declared variable by creating separate method for factorial segment.
+4. Write a Java Program to calculate factorial value of a declared variable by creating separate method for factorial       segment.
 5. Write a Java Program to calculate factorial value of a declared variable by creating separate class and method for factorial segment.
 6. Write a Java Program to calculate factorial value of a variable by taking input from command line.
 7. Write a Java Program to display whether a number is odd or even
@@ -16,7 +16,7 @@ Percentage>=80% : Grade B
 Percentage>=70% : Grade C
 Percentage>=60% : Grade D
 Percentage>=40% : Grade E
-Percentage < 40% : Grade F
+Percentage < 40% : Grade F.
 12. Write a Java Program to check whether a number is divisible by 5 or not.
 
 
@@ -62,12 +62,10 @@ Percentage < 40% : Grade F
     The class ThreeDObject has methods wholeSurfaceArea ( ) and volume ( ). Override these two 
     methods in each of the derived classes to calculate the volume and whole surface area of each type 
     of three-dimensional objects. The dimensions of the objects are to be taken from the users and 
-    passed through the respective constructors of each derived class. Write a main method to test these 
-    classes.   
+    passed through the respective constructors of each derived class. Write a main method to test these classes.
 
- # ASSIGNMENT 5
-
-1. Write a java program to implement the static keyword in java.  
+# ASSIGNMENT 5
+1.  Write a java program to implement the static keyword in java.  
 2.	Write a java program to implement the static method in java.  
 3.	Write a java program to implement the single inheritance in java.  
 4.	Write a java program to implement the hierarchical inheritance in java.  
@@ -76,8 +74,7 @@ Percentage < 40% : Grade F
 7.	Implementation of method overriding in java.  
 8.	Implementation of dynamic method dispatch in java.  
 9.	Write a java program to stop method overriding.  
-10. Create a “circle” class & a “point” class. The coordinates of the circle are given and used within the “circle” class as of     object the “point” class. Display the area of circle  
-11. Write a program to define a class Employee to accept emp_id, emp _name, basic_salary from the user and display the gross_salary.  
-12. Write a program to define a class Fraction having data members numerator and denominator. Initialize three objects using different constructors and display its fractional value.  
-13. Write a program to define a class Item containing code and price. Accept this data for five objects using array of objects. Display  code, price in tabular form and also, display total price of all items 
- 
+10.	Create a “circle” class & a “point” class. The coordinates of the circle are given and used within the “circle” class as object of  the “point” class. Display the area of circle  
+11.	Write a program to define a class Employee to accept emp_id, emp _name, basic_salary from the user and display the gross_salary.  
+12.	Write a program to define a class Fraction having data members numerator and denominator. Initialize three objects using different constructors and display its fractional value.  
+13.	Write a program to define a class Item containing code and price. Accept this data for five objects using array of objects. Display code, price in tabular form and also, display total price of all items 
