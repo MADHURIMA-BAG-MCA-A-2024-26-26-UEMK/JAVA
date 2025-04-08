@@ -79,6 +79,31 @@ Percentage < 40% : Grade F.
 12.	Write a program to define a class Fraction having data members numerator and denominator. Initialize three objects using different constructors and display its fractional value.  
 13.	Write a program to define a class Item containing code and price. Accept this data for five objects using array of objects. Display code, price in tabular form and also, display total price of all items 
 
+
+# ASSIGNMENT  6
+Write a java program to implement the abstraction property.  
+2.	Write a java program to implement interface.  
+3.	Write a java program to implement multi level inheritance with the help of interface.  
+4.	Write a java program to implement the inheritance in interface.  
+5.	Write a java program to implement multiple inheritance using interface.  
+6.	Write a java program to implement super keyword in java.  
+7.	Write a java program to implement super() method without parameter.  
+8.	Write a java program to implement super() method with parameter.  
+9.	Create an interface called Player. The interface has an abstract method called play() that displays a message describing the meaning of “play” to the class. Create classes called Child, Musician, and Actor that all implement Player. Create an application that demonstrates the use of the classes(UsePlayer.java  
+10.	Create an abstract class Accounts with the following details:  
+Data Members: (a) Balance (b) accountNumber (c) accountHoldersName (d) address  
+Methods: (a) withdrawl()- abstract , (b) deposit()- abstract , (c) display() to show the balance of the account number  
+Create a subclass of this class SavingsAccount and add the following details:  
+Data Members: (a) rateOfInterest Methods: (a) calculateAount()  
+11.	Implementation of final keyword before a variable.  12. Implementation of final keyword before a method.  
+13.	Implementation of final keyword before a class.  
+14.	Write a java program to create package.  
+15.	Write a java program to create a subpackage.  
+16.	Write a java program to access the methods from package.  
+17.	Write a java program to access the methods from package & subpackage both.  
+18.	Write a java program to observe the utility of public access specifier. 
+
+# ASSIGNMENT  7
 # ASSIGNMENT 9
 
 1.	Write a Java program to create an ArrayList, add all the months of a year and print the same.  
