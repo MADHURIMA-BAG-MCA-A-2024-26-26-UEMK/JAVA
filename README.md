@@ -104,6 +104,36 @@ Data Members: (a) rateOfInterest Methods: (a) calculateAount()
 18.	Write a java program to observe the utility of public access specifier. 
 
 # ASSIGNMENT  7
+Exception CASE-1: Problem without exception handling  
+2.	Exception CASE-2: Exception creates but properly handled  
+3.	Exception CASE-3: Exception creates but not handled  
+4.	Write a java program to implement Java Multi catch block  5. Write a java program to implement Java Nested try statement  
+6.	Write a java program to implement the throw keyword.  
+7.	Write a java program to implement the throws keyword. 
+8.	Finally CASE – 1 : Case 1: finally example where exception doesn't occur.  
+    	   Case 2: finally example where exception occurs and not handled.  
+                  Case 3: finally example where exception occurs and handled.  
+9.	Create a user-defined exception named CheckArgument to check the number of arguments passed through the command line. If the number of argument is less than 5, throw the CheckArgumentexception,else print the addition of all the five numbers.  
+10.	Consider a Student examination database system that prints the mark sheet of students. Input the following from the command line.  
+(a)	Student’s Name  
+(b)	Marks in six subjects These marks should be between 0 to 50. If the marks are not in the specified range, raise a RangeException, else find the total marks and prints the percentage of the students. 
+
+# ASSIGNMENT  8
+
+Write a java program to implement the concept of Applet.  
+2.	Write a java program to implement the parameter passing applet.  
+3.	Write a java program to implement JButton Class , JTextField Class, JPanel Class, JMenu Class.  Write a java program to implement Chat Frame comprising JFrame, JMenuBar, JMenu, JMenuItem, JPanel, JLabel, JTextField, JButton etc.  
+4.Write a java program to create Thread by extending the Thread class.  
+5. Write a java program to create Thread by implementing the Runnable interface.  
+6.Write a java program to implement the yield( ) method in thread programming.  
+7. Write a java program to implement the sleep(n) method in thread programming.  
+8.Write a java program to implement the suspend( ) & resume( ) method in thread programming.  
+9.	Write a java program to implement the sleep(n) method in thread programming.  
+10.	Create 4 threads with priority 1,3,5,7 respectively. Update a counter in each of the threads for 10 ms. Print the final value of count for each thread.  
+11.	Write a Java Program to Synchronize the Threads Acting on the Same Object. The Synchronized Block in the Program can be Executed by Only One Thread at a Time.  
+12.	Write a Java Program to Check a Thread is Alive or Not.  
+13.	Write a Java Program to Get the Name of a Running Thread. 
+
 # ASSIGNMENT 9
 
 1.	Write a Java program to create an ArrayList, add all the months of a year and print the same.  
