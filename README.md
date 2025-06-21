@@ -1,4 +1,4 @@
-                   # ASSIGNMENT  1
+# ASSIGNMENT  1
  
 1. Write a Java Program to Print “HELLO JAVA”.
 2. Write a Java Program to add two numbers by declaring variables value.
