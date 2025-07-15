@@ -1,4 +1,4 @@
-       public class SimpleArrayExample {
+        public class SimpleArrayExample {
     public static void main(String[] args) {
         // Creating an array of integers
         int[] numbers = {10, 20, 30, 40, 50};
